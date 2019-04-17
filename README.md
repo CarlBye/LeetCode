@@ -52,6 +52,11 @@ Answers to LeetCode
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0047_Permutations_II/permutations_II.java) |                             C++                              |   Medium   |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0048_Rotate_Image/rotate_image.java) |                             C++                              |   Medium   |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0049_Group_Anagrams/group_anagrams.java) |                             C++                              |   Medium   |
+| 0050 |      [Pow(x, n)](https://leetcode.com/problems/powx-n/)      | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0050_Pow(x%2C%20n)/pow(x%2C%20n).java) |                             C++                              |   Medium   |
+|      |                                                              |                                                              |                                                              |            |
+|      |                                                              |                                                              |                                                              |            |
+|      |                                                              |                                                              |                                                              |            |
+|      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
 | 0322 |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0322_Coin_Change/coin_change.java) |                             C++                              |   Medium   |
 |      |                                                              |                                                              |                                                              |            |
@@ -101,6 +106,10 @@ Answers to LeetCode
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
+
+
+
+
 
 
 
