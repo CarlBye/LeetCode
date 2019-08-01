@@ -70,6 +70,7 @@ Answers to LeetCode
 | 0070 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0070_Climbing_Stairs/climbing_stairs.java) |                             C++                              |    Easy    |
 | 0071 | [Simplify Path](https://leetcode-cn.com/problems/simplify-path/) | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0071_Simplify_Path/simplify_path.java) |                             C++                              |   Medium   |
 | 0073 | [Set Matrix Zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0073_Set_Matrix_Zeroes/set_matrix_zeroes.java) |                             C++                              |   Medium   |
+| 0074 | [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0074_Search_a_2D_Matrix/search_a_2D_matrix.java) |                             C++                              |   Medium   |
 | 0075 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/) | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0075_Sort_Colors/sort_colors.java) |                             C++                              |   Medium   |
 | 0078 |     [Subsets](https://leetcode-cn.com/problems/subsets/)     | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0078_Subsets/subsets.java) |                             C++                              |   Medium   |
 |      |                                                              |                                                              |                                                              |            |
@@ -107,6 +108,8 @@ Answers to LeetCode
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
 | 0322 |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0322_Coin_Change/coin_change.java) |                             C++                              |   Medium   |
+
+
 
 
 
