@@ -98,7 +98,7 @@ Answers to LeetCode
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
-|      |                                                              |                                                              |                                                              |            |
+| 0141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0141_Linked_List_Cycle/linked_list_cycle.java) |                             C++                              |    Easy    |
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
