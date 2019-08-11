@@ -103,7 +103,7 @@ Answers to LeetCode
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
-|      |                                                              |                                                              |                                                              |            |
+| 0290 | [Word Pattern](https://leetcode-cn.com/problems/word-pattern/) | [Java](https://github.com/CarlBye/LeetCode/blob/master/src/0290_Word_Pattern/word_pattern.java) |                             C++                              |    Easy    |
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
 |      |                                                              |                                                              |                                                              |            |
